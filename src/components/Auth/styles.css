@@ -1,0 +1,44 @@
+.centerScreen {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 90vh;
+    width: 50%;
+    margin-left: 25%;
+}
+
+.centerScreenMobile {
+  margin-top:80px;
+  display: block;
+  position:fixed;
+  left:10px;
+  right: 10px;
+}
+
+  .registerIcon {
+    align-items: center;
+    text-align: center;
+    margin: auto;
+  }
+
+  .registerText {
+    text-align: center;
+  }
+
+/* DESK VIEW */
+@media only screen and (min-width: 800px) {
+    .centerScreenMobile {
+      display: none; }
+      .centerScreen {
+      display: flex; }
+    }
+  
+  /* MOBILE VIEW */
+  @media only screen and (max-width: 800px) {
+      .centerScreenMobile {
+        display: block; }
+        .centerScreen {
+        display: none; } 
+    }
+    

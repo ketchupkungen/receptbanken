@@ -1,0 +1,21 @@
+.test {
+    color:blue;
+}
+
+
+
+/* DESK VIEW */
+@media only screen and (min-width: 800px) {
+  .mobileSearchCreate {
+    display: none; }
+  .desktopSearchCreate {
+    display: block;
+    position: fixed; } }
+
+/* MOBILE VIEW */
+@media only screen and (max-width: 800px) {
+    .mobileSearchCreate {
+      display: block; }
+    .desktopSearchCreate {
+      display: none; } }
+  

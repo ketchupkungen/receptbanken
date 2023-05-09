@@ -1,0 +1,17 @@
+Se över cards på posts, till sitt nya utseende
+Lägg till Sida för taggar/katergorier
+Lägg till sida för användare (typ implementerat redan)
+Lägg till sida för mina recept (typ implementerat redan)
+Lägg till sida för mina favoriter
+Lägg till sida för profil
+Lägg till betygsättningssystem
+Lägg till bright/dark mode switch, kika på tidigare recept för tips
+Lägg till profilbild
+Se över sidebar så den glider in från sidan och inte uppifrån
+Se till sist över design på hemsidan. Färger. T ex Pinchos rött/gult eller naturgrönt tema?
+
+Kopiera över sökfunktion till creator och Tag sidan. VIKTIG
+
+Gällande bilder. Konvertera till .avif? Håll till eller skala ner till max 1mb
+
+Kanske istället ha en knapp för att växla grafiktyp på listan, t ex i navbar? Kan dock bli svårt

@@ -1,0 +1,101 @@
+.MuiPaper-root {
+    background-color: #13171C  !important;
+    color:white !important;
+}
+
+.MuiDrawer-paper {
+    background-color: #13171C  !important;
+    background-image: linear-gradient(to top left, rgba(220, 66, 37, 0.7), rgba(0, 47, 75, 1)),
+    url('../../images/background.jpg') !important;
+    box-shadow: 
+    0px 2px 1px -1px rgba(0, 0, 0, 0.438), 
+    0px 1px 1px 0px rgba(0, 0, 0, 0.432), 
+    0px 1px 3px 0px rgba(0, 0, 0, 0.486) !important;
+    background-size: cover;
+}
+
+.MuiMenu-list {
+    background-color: #13171C  !important;
+    color:white;
+}
+
+
+.root {
+    flex-grow: 1;
+  }
+
+  .menuButton {
+    margin-right: 20px;
+  }
+
+  .title {
+    flex-grow: 1;
+    text-decoration: none;
+  }
+  .list {
+    width: 250px;
+  }
+  .fullList {
+    width: auto;
+  }
+
+  .navbarTitle {
+    left: 200px;
+    padding: 50px;
+    text-decoration: none;
+  }
+
+  .burgerMenu {
+    height: 40px;
+    position: fixed;
+  }
+
+
+  .MuiBackdrop-root {
+    background-image: inherit linear-gradient(to bottom right, rgba(0, 47, 75, .5), rgba(220, 66, 37, .5)) !important;
+    background-size: cover;
+    background-repeat:no-repeat;
+    -webkit-backdrop-filter: blur(20px); 
+    backdrop-filter: blur(20px);
+}
+
+    .MuiPaper-root p {
+        color:white;
+    }
+
+
+    .sidebar {
+        background-color: #13171C  !important;
+        background-image: linear-gradient(to bottom right, rgba(0, 47, 75, .1), rgba(220, 66, 37, .05)) !important;
+        box-shadow: 
+        0px 2px 1px -1px rgba(0, 0, 0, 0.438), 
+        0px 1px 1px 0px rgba(0, 0, 0, 0.432), 
+        0px 1px 3px 0px rgba(0, 0, 0, 0.486) !important;   
+    }
+
+    .sidebar-item {
+        color:white !important;
+    }
+
+    .navbar {
+        /*background: '#A52A2A',*/
+        /*background: #556B2F !important;*/
+        background-image: linear-gradient(to bottom right, rgba(0, 47, 75, 0.5), rgba(220, 66, 37, 0.5)) !important;
+        /*-webkit-mask-image: linear-gradient(to right, rgba(0,0,0,1), rgba(0,0,0,0));
+        -webkit-mask-size: 100%;
+        -webkit-mask-repeat: no-repeat;
+        -webkit-mask-position: left;*/
+        background-size: cover;
+        box-shadow: 0px 2px 10px #000000;
+      }
+/*
+#show_bg_2 {
+    background-image:
+    linear-gradient(to bottom, rgba(245, 246, 252, 0.52), rgba(117, 19, 93, 0.73)),
+    url('../../images/background.jpg');
+    width: 80%;
+    height: 400px;
+    background-size: cover;
+    color: white;
+    padding: 20px;
+}*/
