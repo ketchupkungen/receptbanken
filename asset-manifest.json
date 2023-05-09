@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ketchupkungen/receptbanken.git/static/css/main.0e016405.chunk.css",
+    "main.js": "/ketchupkungen/receptbanken.git/static/js/main.d2355e7a.chunk.js",
+    "main.js.map": "/ketchupkungen/receptbanken.git/static/js/main.d2355e7a.chunk.js.map",
+    "runtime-main.js": "/ketchupkungen/receptbanken.git/static/js/runtime-main.0f69fe2f.js",
+    "runtime-main.js.map": "/ketchupkungen/receptbanken.git/static/js/runtime-main.0f69fe2f.js.map",
+    "static/js/2.017e1a51.chunk.js": "/ketchupkungen/receptbanken.git/static/js/2.017e1a51.chunk.js",
+    "static/js/2.017e1a51.chunk.js.map": "/ketchupkungen/receptbanken.git/static/js/2.017e1a51.chunk.js.map",
+    "index.html": "/ketchupkungen/receptbanken.git/index.html",
+    "precache-manifest.2204901dc45982bc3bd828e197648734.js": "/ketchupkungen/receptbanken.git/precache-manifest.2204901dc45982bc3bd828e197648734.js",
+    "service-worker.js": "/ketchupkungen/receptbanken.git/service-worker.js",
+    "static/css/main.0e016405.chunk.css.map": "/ketchupkungen/receptbanken.git/static/css/main.0e016405.chunk.css.map",
+    "static/js/2.017e1a51.chunk.js.LICENSE.txt": "/ketchupkungen/receptbanken.git/static/js/2.017e1a51.chunk.js.LICENSE.txt",
+    "static/js/main.d2355e7a.chunk.js.LICENSE.txt": "/ketchupkungen/receptbanken.git/static/js/main.d2355e7a.chunk.js.LICENSE.txt",
+    "static/media/styles.css": "/ketchupkungen/receptbanken.git/static/media/background.d58b9b65.jpg",
+    "static/media/logo.png": "/ketchupkungen/receptbanken.git/static/media/logo.477ee464.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0f69fe2f.js",
+    "static/js/2.017e1a51.chunk.js",
+    "static/css/main.0e016405.chunk.css",
+    "static/js/main.d2355e7a.chunk.js"
+  ]
+}
